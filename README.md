@@ -23,5 +23,14 @@ if (a+1 emasomeno b){
 resumen(array);
 
 // output => [1,2,3,4,4]
+
+cuantascopastenes array
+
+// output => 5
+
+cuantascopastenes a
+
+// output => Uncaught la cagaste
+
 ```
 
